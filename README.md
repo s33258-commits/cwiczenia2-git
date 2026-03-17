@@ -16,3 +16,7 @@ na gałęzi `main` został dodany osobny commit. Historia gałęzi rozeszła si�
 
 dlatego Git musiał utworzyć osobny commit scalający.
 
+
+## Rebase comparison
+
+Rebase pozwala zachować bardziej liniową i czytelną historię zmian.
