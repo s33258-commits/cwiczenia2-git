@@ -4,4 +4,9 @@ public static class StatisticsHelper
     {
         return number * number;
     }
+
+    public static double Average(double a, double b)
+    {
+        return (a + b) / 2;
+    }
 }
